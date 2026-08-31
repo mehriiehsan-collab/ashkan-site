@@ -1,0 +1,1 @@
+import{j as o}from"./index-Bzor5oj8.js";import{N as t}from"./pages-DRiOQR_P.js";const n=()=>o.jsx(t,{lang:"fa"});export{n as component};
