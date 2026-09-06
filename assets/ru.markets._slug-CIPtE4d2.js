@@ -1,0 +1,1 @@
+import{k as o,j as e}from"./index-BsVTNviM.js";import{b as r}from"./pages-CAgjEX8I.js";import"./cta-C2GaCL3m.js";const p=function(){const{slug:t}=o.useLoaderData();return e.jsx(r,{lang:"ru",slug:t})};export{p as component};
