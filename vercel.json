@@ -6,14 +6,18 @@
     {
       "source": "/api/:path*",
       "destination": "https://ashkan-estates.higgsfield.app/api/:path*"
-    },
+    }
+  ],
+  "redirects": [
     {
       "source": "/panel",
-      "destination": "https://ashkan-estates.higgsfield.app/panel"
+      "destination": "https://ashkan-estates.higgsfield.app/panel",
+      "permanent": false
     },
     {
       "source": "/panel/:path*",
-      "destination": "https://ashkan-estates.higgsfield.app/panel/:path*"
+      "destination": "https://ashkan-estates.higgsfield.app/panel/:path*",
+      "permanent": false
     }
   ],
   "headers": [
