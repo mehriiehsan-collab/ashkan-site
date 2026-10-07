@@ -1,0 +1,1 @@
+import{n as t,j as a}from"./index-D211wgpu.js";import{a as e}from"./pages-DevWLplv.js";import"./data-CiH4LnuT.js";const p=function(){const{slug:o}=t.useLoaderData();return a.jsx(e,{lang:"fa",slug:o})};export{p as component};
