@@ -1,0 +1,1 @@
+import{j as o}from"./index-BjMsa3iS.js";import{S as t}from"./pages-B4yGlIyV.js";import"./data-CiH4LnuT.js";const n=()=>o.jsx(t,{lang:"ru"});export{n as component};
