@@ -1,0 +1,1 @@
+import{e as t,j as e}from"./index-lMJF0hZh.js";import{a as n}from"./pages-CJI36DpK.js";import"./data-CiH4LnuT.js";const p=function(){const{slug:o}=t.useLoaderData();return e.jsx(n,{lang:"en",slug:o})};export{p as component};
